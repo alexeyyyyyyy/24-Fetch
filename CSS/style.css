@@ -1,0 +1,27 @@
+body {
+    background-color: tan;
+    position: relative;
+}
+label {
+    font-size: 25px;
+    margin-left: 700px
+}
+#todoId {
+    font-size: 20px;
+}
+#sendTodo{
+    font-size: 20px;
+    background-color: green;
+}
+#calcStats {
+    font-size: 20px;
+    background-color: green;
+}
+h2{
+    margin-left: 40px;
+}
+h3{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 40px;
+}
